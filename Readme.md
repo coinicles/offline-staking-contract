@@ -1,1 +1,1 @@
-#Qtum Offline Staking Solidity contract
+#Cico Offline Staking Solidity contract
